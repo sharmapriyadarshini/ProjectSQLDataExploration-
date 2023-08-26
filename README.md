@@ -5,8 +5,7 @@ By analyzing this data, you can gain insights into the impact of COVID-19 and th
 
 ## Installation
 1. Clone this repository to your local machine using:
-   git clone https://github.com/sharmapriyadarshini/ProjectSQLDataExploration.git
-
+   https://github.com/sharmapriyadarshini/ProjectSQLDataExploration-
 2. Ensure you have a MySQL server installed and running.
 
 3. Load the "Covid_deaths" and "Covid_vaccinations" datasets into your MySQL database.
