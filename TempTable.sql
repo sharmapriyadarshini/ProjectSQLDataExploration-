@@ -4,7 +4,6 @@ USE PortfolioProject;
 -- Dropping Table
 Drop TABLE IF EXISTS PercentPopulationVaccinated; 
 
-
 -- Create the table
 CREATE TABLE PercentPopulationVaccinated (
     Continent VARCHAR(255) CHARACTER SET utf8mb4,
